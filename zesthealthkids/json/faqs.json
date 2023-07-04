@@ -59,17 +59,17 @@
         {
           "questionId": "8838a5b973db56f1",
           "question": "Uploading Files in Health Documents",
-          "answer": "NA"
+          "answer": "<p>You can upload files in the Health Documents section of the app to keep track of your child's medical records. To upload a file:</p><p>1. Select a baby book</p><p>2. Click on the 'Health Documents' tab</p><p>3. Click 'Add new record'</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/RhiIepm2RO.png'></p><p>4. Create a folder name and upload a file</p><p>5. Click the 'Create' button</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/OWYVo61QVg.png'></p>"
         },
         {
           "questionId": "7f9749723a0a9305",
           "question": "How can I convert an image to a word file?",
-          "answer": "NA"
+          "answer": "<p>Go to “Health Documents” and then click “add new record” choose “Pdf to Word” option and then upload your file. Once your file is transported as text click the button “Create” and add your folder name.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/rYkZ1gPJNz.png'></p>"
         },
         {
           "questionId": "1e20ab96dde603c6",
           "question": "How can I convert a pdf file to a word file?",
-          "answer": "NA"
+          "answer": "<p>Go to “Health Documents” and then click “add new record” choose “Image to Word” option and then upload your file. Once your file is transported as text click the button “Create” and add your folder name.Once your file is transported as text click the button “Create” and add your folder nam</p><p>How can I convert a pdf file to a word file?</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/VsjGLXlZxz.png'></p>"
         }
       ]
     },
@@ -80,17 +80,17 @@
         {
           "questionId": "783ab90e50ac9030",
           "question": "Notification on Scheduled Check-ups",
-          "answer": "NA"
+          "answer": "<p>You can choose the version of check-ups you want to display and use. You will be notified when your baby's scheduled check-up is done, due, or overdue. This helps you keep track of your child's check-ups.</p><p><strong>Version template</strong></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/9SXHee2WcH.png'></p><p><strong>Custom check-ups</strong></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/JMyAI2_G2m.png'></p>"
         },
         {
           "questionId": "8171dc616b36aebd",
           "question": "Deletion of Custom Check-ups",
-          "answer": "NA"
+          "answer": "<p>To delete a custom check-up in your baby book, locate the specific entry in the files column, click on the three dots next to it, select 'Delete Check-up' from the dropdown menu, confirm the deletion, and the custom check-up will be removed from your baby book.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/M5scxxEUQn.png'></p>"
         },
         {
           "questionId": "65a0c61e8563be33",
           "question": "Change your Scheduled Check-up schedule version",
-          "answer": "NA"
+          "answer": "<p>To access the versions of scheduled check-ups per country in the scheduled check-ups section, click on the gear icon. Once you click on the gear icon, a list of available versions will appear, allowing you to choose the specific version you want to use for the scheduled check-ups</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/3MDecLrmw6.png'></p>"
         }
       ]
     },
@@ -111,7 +111,18 @@
         {
           "questionId": "333b6264118133be",
           "question": "Change your Vaccine Version According to your Preferred Country",
-          "answer": "NA"
+          "answer": "<p>To access the versions of immunization per country in the immunization section, locate and click on the gear icon. Once you click on the gear icon, a list of available versions will be displayed, giving you the option to choose the specific version you want to use for the immunization records.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/7YpwhY2WSn.png'></p>"
+        }
+      ]
+    },
+    {
+      "categoryId": "bd8279920e5ca1a2",
+      "category": "Growth Chart",
+      "questions": [
+        {
+          "questionId": "1f10e2d33a34d845",
+          "question": "How can I see the growth percentile of my child?",
+          "answer": "<p>To view the summary of your child's growth percentile on the growth chart section, locate the 'Show Percentile' option and check the box beside it. By doing so, the growth chart will display the percentile information, providing you with a summary of your child's growth in relation to other children of the same age.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/D67nV7q-Kj.png'></p>"
         }
       ]
     },
@@ -122,22 +133,22 @@
         {
           "questionId": "3b5b4a5b8ff2b206",
           "question": "Sharing of baby book for two (2) or more accounts",
-          "answer": "NA"
+          "answer": "<p>Yes, it is possible to share your baby book with two or more accounts simultaneously. To do so, ensure that you set the desired time for sharing with the intended accounts. This will allow multiple individuals to access and view the baby book simultaneously.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/3om-lNFVAg.png'></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/qfuHpVlPku.png'></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/oWhkaWmVia.png'></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/2RHkQj3b8y.png'></p>"
         },
         {
           "questionId": "514910213fc4059a",
           "question": "Can I control sharing of baby books to the shared accounts?",
-          "answer": "NA"
+          "answer": "<p>To revoke access to your baby book for shared accounts, follow these steps: locate the 'Share Baby Book' button, click on 'Manage Sharing,' find the status arrow, expand the options, and select 'stop sharing.' By following these steps, you can easily manage and control the sharing of your baby book with other accounts.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/bTOAeWLkN5.png'></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/MDfRAjzMuh.png'></p>"
         },
         {
           "questionId": "3f4e9fe335f6c69a",
           "question": "How can I share the baby book with non-users of Zestheath Kids?",
-          "answer": "NA"
+          "answer": "<p>You have the option to share your baby book with non-users of Zesthealth Kids, but please note that you can only provide them with view access. They will not be able to edit the baby book. By sharing the baby book, they will be able to view its contents and information.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/R_GzKXOrAz.png'></p>"
         },
         {
           "questionId": "344968a00f364ecc",
           "question": "How can I determine which accounts have access to my baby book?",
-          "answer": "NA"
+          "answer": "<p>To view the accounts with access to your baby book, click the 'Share' button, select 'Manage Sharing,' and you will see a list of the accounts that can access your baby book.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/z1S1K3tYFd.png'></p>"
         }
       ]
     },
@@ -148,28 +159,28 @@
         {
           "questionId": "960a8bda5d3f6841",
           "question": "Safety and Security",
-          "answer": "NA"
+          "answer": "<p>To ensure the security of your account, you are required to verify both your email address and your mobile number upon signing in. The app allows you to fully secure the privacy of your account via a verification code each time you log in.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/6qLXmxlHFI.png'></p>"
         },
         {
           "questionId": "e4e19b67bc6c36f7",
           "question": "Rules and Policies",
-          "answer": "NA"
+          "answer": "<p><span style='background-color: rgb(255, 255, 255);'>It is important to follow the app's rules and policies to ensure a safe and secure experience for all users.</span></p>"
         },
         {
           "questionId": "3f74b38607a7114c",
           "question": "How should I access my account if I forgot my password?",
-          "answer": "NA"
+          "answer": "<p>To regain access to your account if you forget your password, follow these steps:</p><p>1. Go to the login page and locate the 'Forgot Password' option.</p><p>2. Click on the 'Forgot Password' link to initiate the password recovery process.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/1xTwR3kReg.png'></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/-LNdOW5qzN.png'></p><p>3. An authentication code will be sent to the mobile number or email address associated with your account.</p><p>4. Enter the authentication code in the provided field.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/DnoGuWHwE6.png'></p><p>5. Once the code is verified, you will be prompted to create a new password.</p><p>6. Enter your desired new password and confirm it.</p><p>7. Save the changes, and your password will be updated.</p><p>By following these steps, you can successfully regain access to your account if you forget your password.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/_2D6YL5T-O.png'></p>"
         }
       ]
     },
     {
-      "categoryId": "4cef68c7c5420624",
+      "categoryId": "4cef68c7c8420624",
       "category": "Zesthealth News",
       "questions": [
         {
-          "questionId": "eb5f17e29c0dd7de",
+          "questionId": "eb5f17e23c0dd7de",
           "question": "What is Zesthealth News",
-          "answer": "NA"
+          "answer": "<p>Zesthealth News is where you can find useful articles and news that can help both you and your baby. It keeps you informed and updated about the latest happenings in the world of parenting and child development.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/Xc_7Dp5EJK.png'></p>"
         }
       ]
     },
@@ -179,8 +190,13 @@
       "questions": [
         {
           "questionId": "cb1659fe17a3cf77",
-          "question": "Global Search",
-          "answer": "NA"
+          "question": "How can I search a specific document without going through each folders?",
+          "answer": "<p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/xOU-YGT7oi.png'></p><p>At the top of each category, there is a search bar, you can type there the file you want to see and enter to open the file.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/kTODzcLntt.png'></p>"
+        },
+        {
+          "questionId": "19da2d8492a526ec",
+          "question": "How can I become familiar with navigating the baby book interface?",
+          "answer": "<p>To access the user manual for navigating the baby book, click on your profile name and select 'User Manual' from the dropdown menu. The user manual will provide guidance and instructions on how to navigate the baby book effectively.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/KqmjSZ86oN.png'></p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/UjigpY_66v.png'></p>"
         }
       ]
     },
@@ -191,12 +207,12 @@
         {
           "questionId": "5946d869883f6828",
           "question": "Is there a way for me to choose a timeout for my account for security purposes?",
-          "answer": "NA"
+          "answer": "<p>To enhance the security of your account, you can enable automatic logouts after a specified period of inactivity. To do this, access your account's settings, navigate to the 'Security settings' option, and choose the desired number of hours of inactivity before automatic logout. This feature ensures that your account is logged out automatically when left inactive, adding an extra layer of security.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/lhrXNtmA8O.png'></p>"
         },
         {
           "questionId": "0ff88aafc6f14b41",
           "question": "How can I subscribe to the Newsletter?",
-          "answer": "NA"
+          "answer": "<p>To subscribe to a newsletter and receive regular updates:</p><p>1. Access your account settings by clicking on 'User settings.'</p><p>2. Locate the 'Newsletter' section in the settings menu.</p><p>3. If you are currently unsubscribed, click on the subscribe button to start receiving the newsletter.</p><p><img src='https://tawk.link/6296b8efb0d10b6f3e7504f4/kb/attachments/j7hSgVautB.png'></p>"
         }
       ]
     }
